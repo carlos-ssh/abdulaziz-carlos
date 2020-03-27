@@ -1,0 +1,28 @@
+body{
+  background-color: #000000;
+  color: #ffffff;
+}
+#title{
+  padding-left: 32%;
+  margin-bottom: 35px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+
+}
+
+#image {
+  padding-left: 30%;
+  padding-bottom: 5%;
+}
+
+#img-caption {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+#tribute-info{
+  font-family: sans-serif;
+  padding: 2rem;
+}
