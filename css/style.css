@@ -4,19 +4,22 @@ body{
 }
 #title{
   padding-left: 32%;
-  margin-bottom: 35px;
+  margin-bottom: 105px;
   font-weight: bold;
   font-family: sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
+  width: 40vw;
+  height: 5vh;
 
 }
 
 #image {
   padding-left: 30%;
   padding-bottom: 5%;
-  width: inherit;
-  
+  width: 30vw;
+  height: 8vh;
+
 }
 
 #img-caption {
